@@ -1,0 +1,16 @@
+.upload-section {
+    padding:30px 30px;
+}
+
+.csv_btn {
+    background-color: #00a699;
+    color: #ffffff;
+    border-radius: 3px;
+    border: 0;
+    padding: 4px 10px;
+    font-size: 14px;
+}
+
+.csv_btn:hover {
+    background-color: #00897c;
+}
